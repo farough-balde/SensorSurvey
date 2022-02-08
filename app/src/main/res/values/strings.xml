@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorSurvey</string>
+    <string name="quot_placeholder_quot">(\"placeholder\")</string>
+</resources>
