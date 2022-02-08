@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_light">Detecteur de Lumiere</string>
+    <string name="label_proximity">Detecteur de Proximité</string>
+    <string name="error_no_sensor">Pas de Detecteur</string>
+</resources>
